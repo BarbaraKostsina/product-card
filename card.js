@@ -36,6 +36,7 @@ let card = [{
             <div class="prodPrice">${card[i].price} ${card[i].currency}</div>
             </div>
         <br>
+        <p>Заказы</p>
     </div>`;
 
     }
