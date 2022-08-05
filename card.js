@@ -37,6 +37,7 @@ let card = [{
             </div>
         <br>
         <p><a href="#">Мои покупки</a></p>
+        <br>
     </div>`;
 
     }
